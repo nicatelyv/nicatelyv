@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning frontend lessons frontend lessons
 
-- 📫 How to reach me **nn1koo@mail.ru**
+- 📫 How to reach me **nicateliyevv03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
