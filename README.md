@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nijat Aliyev</h1>
 <h3 align="center">A passionate frontend developer from Baku</h3>
 
-- 🌱 I’m currently learning frontend lessons
+- 🌱 I am currently doing frontend experiments
 
 - 📫 How to reach me **nicateliyevv03@gmail.com**
 
