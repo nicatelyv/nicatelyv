@@ -3,10 +3,10 @@
 
 - 🌱 I am currently doing frontend experiments
 
-- 📫 How to reach me **nicateliyevv03@gmail.com**
-
 - My Portfolio
-**https://nicateliyev.vercel.app
+https://nicateliyev.vercel.app
+
+- 📫 How to reach me **nicateliyevv03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
