@@ -6,7 +6,7 @@
 
 - 🌱 I am currently doing frontend experiments
 
-- My Portfolio
+- 🌎 My Portfolio
 https://nicateliyev.vercel.app
 
 - 📫 How to reach me **nicateliyevv03@gmail.com**
